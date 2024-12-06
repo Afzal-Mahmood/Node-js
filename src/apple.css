@@ -1,6 +1,8 @@
 /* styles.css */
-.background {
-    background-image: url('path-to-a.jpg');
+/* .background {
+    background-image: url('ax1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -15,4 +17,4 @@
     width: 100%;
     height: 110%;
     z-index: 1; */
-  }
+  /* } */
