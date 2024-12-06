@@ -11,11 +11,11 @@ const Form = () => {
   
   return (
     <div className="col-12 my-5  container d-flex">
-      <div className="col-8 " style={{paddingTop:'150px',paddingLeft:'100px',textTransform:'uppercase',fontVariant:'small-caps'}}>
-     <h2 className='text-white display-4 '
-     style={{fontFamily:'serif', letterSpacing:'5'}}>Catering Services For All Occasions <br/>
+      <div className="col-8" style={{paddingTop:'150px',paddingLeft:'100px',textTransform:'uppercase',fontVariant:'small-caps'}}>
+     <h2 className=' display-4 '
+     style={{fontFamily:'serif',color:"chocolate", letterSpacing:'5'}}>Catering Services For All Occasions <br/>
      </h2>
-     <h3 className='text-white h6 pt- '>Just dial and book your service now!<br /> </h3>
+     <h3 className=' h6 pt- ' style={{color:"blacky"}}>Just dial and book your service now!<br /> </h3>
      <button className='mt-3 btn btn-warning rounded-circle p-3 fw-bold text-white'>Call Use Now</button>
       </div>
    

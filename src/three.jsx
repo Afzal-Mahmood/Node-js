@@ -65,7 +65,7 @@ const Name = () => {
               <Link to="/form" className="nav-link text-white">TANDOORI CATERING</Link>
             </li>
             <li className="nav-item me-4">
-              <Link to="/Product" className="nav-link text-white">LOCATION</Link>
+              <Link to="/Product" className="nav-link text-white">PRODUCT</Link>
             </li>
             <li className="nav-item me-4">
               <Link to="/Localstorage" className="nav-link text-white">LOCAL STORAGE</Link>
